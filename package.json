@@ -1,0 +1,19 @@
+{
+  "name": "experiments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Kevnz/experimental.git"
+  },
+  "author": "Kevin Isom",
+  "license": "The Unlicense",
+  "bugs": {
+    "url": "https://github.com/Kevnz/experimental/issues"
+  },
+  "homepage": "https://github.com/Kevnz/experimental"
+}
